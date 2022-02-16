@@ -1,0 +1,19 @@
+{
+  "name": "programmopedia",
+  "version": "1.0.0",
+  "description": "learning js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doukaind/programmopedia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doukaind/programmopedia/issues"
+  },
+  "homepage": "https://github.com/doukaind/programmopedia#readme"
+}
