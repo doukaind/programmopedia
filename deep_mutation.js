@@ -17,7 +17,9 @@ const person5 = {
   address: { street: "Main Street", number: 123 },
 };
 
+// The JSON.stringify() method converts a JavaScript object or value to a JSON string,s
 const deepPersonClone = JSON.parse(JSON.stringify(person5));
+//The JSON.parse() method parses a JSON string, constructing the JavaScript value or object described by the string.
 deepPersonClone.address.number = 456;
 
 console.log({ person5, deepPersonClone });
